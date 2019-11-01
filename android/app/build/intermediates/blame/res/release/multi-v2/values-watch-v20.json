@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cadrac/Desktop/estatse with icons/estatse/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/cadrac/.gradle/caches/transforms-2/files-2.1/b5b6da4dac026bd9747633b5b06e2985/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

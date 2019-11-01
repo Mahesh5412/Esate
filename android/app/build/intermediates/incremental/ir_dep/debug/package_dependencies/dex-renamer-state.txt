@@ -1,0 +1,4 @@
+#Wed Jul 24 09:56:59 IST 2019
+base.0=/home/novisync/estatse/android/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
